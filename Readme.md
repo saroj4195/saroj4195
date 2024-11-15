@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Saroj Kumar Patel!</h1>
-<h3 align="center">🚀 Passionate Backend Developer | 5+ Years of Expertise in Web Development</h3>
-<h4 align="center">💡 Innovating solutions with Laravel, WordPress, CodeIgniter, Django, and currently diving into Node.js</h4>
+<h3 align="center">🚀 Backend Developer | 5+ Years of Expertise in Web Development</h3>
+<h4 align="center">💡 Innovating solutions with Laravel, CodeIgniter, Django, and currently diving into Node.js</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saroj4195&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -84,6 +84,5 @@ Feel free to reach out to discuss tech, collaboration, or just say hi!
 ---
 
 ### 🎯 Fun Facts
-- 🌟 I enjoy sharing my insights on tech through articles on Medium.  
 - 🎨 When I'm not coding, I explore Figma to create user-friendly designs.  
 - 💻 Always eager to learn about new technologies and improve my expertise.
