@@ -10,10 +10,10 @@
 
 ### 🌟 About Me
 🔧 **Expertise**:  
-With over **5 years of experience** in backend development, I specialize in crafting dynamic, high-performance web applications using **Laravel, WordPress, CodeIgniter, and Django**. From building custom APIs to architecting scalable systems, I’m passionate about solving real-world problems through technology.
+With over **5 years of experience** in backend development, I specialize in building high-performance web applications using **Laravel, WordPress, CodeIgniter, and Django**. I have extensive experience integrating over **20+ payment gateways**, ensuring seamless, secure, and user-friendly transactions across platforms.
 
 🌱 **Learning Journey**:  
-Currently enhancing my skill set by mastering **Node.js** to explore modern server-side development and build robust, scalable applications.
+Currently enhancing my skill set by mastering **Node.js** to explore modern server-side development and expand my tech stack.
 
 💼 **Professional Mindset**:  
 I believe in **continuous learning**, **team collaboration**, and **delivering excellence** in every project. My mission is to create impactful solutions that are efficient, user-friendly, and future-proof.
@@ -84,6 +84,6 @@ Feel free to reach out to discuss tech, collaboration, or just say hi!
 ---
 
 ### 🎯 Fun Facts
-- 🌟 I enjoy writing about tech on Medium.  
-- 🎨 When I'm not coding, I explore creative tools like Figma to design UI mockups.  
-- 📚 Always keen on learning about new technologies and improving my skills.
+- 🌟 I enjoy sharing my insights on tech through articles on Medium.  
+- 🎨 When I'm not coding, I explore Figma to create user-friendly designs.  
+- 💻 Always eager to learn about new technologies and improve my expertise.
