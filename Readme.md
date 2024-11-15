@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 🔧 **Expertise**:  
-With over **5 years of experience** in backend development, I specialize in building high-performance web applications using **Laravel, WordPress, CodeIgniter, and Django**. I have extensive experience integrating over **20+ payment gateways**, ensuring seamless, secure, and user-friendly transactions across platforms.
+With over **5 years of experience** in backend development, I specialize in building high-performance web applications using **Laravel, WordPress, CodeIgniter, and Django**. I have extensive experience integrating over **15+ payment gateways**, ensuring seamless, secure, and user-friendly transactions across platforms.
 
 🌱 **Learning Journey**:  
 Currently enhancing my skill set by mastering **Node.js** to explore modern server-side development and expand my tech stack.
