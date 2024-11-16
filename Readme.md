@@ -80,9 +80,3 @@ Feel free to reach out to discuss tech, collaboration, or just say hi!
   <img src="https://github-readme-stats.vercel.app/api?username=saroj4195&show_icons=true&locale=en" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saroj4195&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="49%" />
 </p>
-
----
-
-### 🎯 Fun Facts
-- 🎨 When I'm not coding, I explore Figma to create user-friendly designs.  
-- 💻 Always eager to learn about new technologies and improve my expertise.
