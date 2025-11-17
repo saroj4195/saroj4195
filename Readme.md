@@ -1,6 +1,8 @@
-<h1 align="center">👋 Hi, I'm Saroj Kumar Patel </h1>
-<h3 align="center">🚀 Backend Developer | 5+ Years of Expertise in Web Development</h3>
-<h4 align="center">💡 Innovating solutions with Laravel, CodeIgniter, Django, and currently diving into Node.js</h4>
+![Banner](https://user-images.githubusercontent.com/46455250/154399759-4bd34b11-34fc-4764-b88d-48fb1b39f055.png)
+
+<h1 align="center">👋I'm <span style="color:#a855f7;">Saroj Kumar Patel</span></h1>
+<h3 align="center">🚀 Backend Developer | 5+ Years of Experience</h3>
+<h4 align="center">💡 Crafting scalable, secure, and high-performance applications with Laravel, CodeIgniter, Django, and now Node.js</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saroj4195&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,75 +10,60 @@
 
 ---
 
-### 🌟 About Me
-🔧 **Expertise**:  
-With over **5 years of experience** in backend development, I specialize in building high-performance web applications using **Laravel, WordPress, CodeIgniter, and Django**. I have extensive experience integrating over **15+ payment gateways**, ensuring seamless, secure, and user-friendly transactions across platforms.
+### 👨‍💻 About Me
 
-🌱 **Learning Journey**:  
-Currently enhancing my skill set by mastering **Node.js** to explore modern server-side development and expand my tech stack.
+A passionate backend developer with **5+ years** of hands-on experience building modern, scalable, and reliable web applications.  
+I have integrated **15+ payment gateways**, optimized complex booking flows, and delivered backend solutions trusted by real businesses.
 
-💼 **Professional Mindset**:  
-I believe in **continuous learning**, **team collaboration**, and **delivering excellence** in every project. My mission is to create impactful solutions that are efficient, user-friendly, and future-proof.
+🔥 **What I bring to the table**  
+- Solid expertise in **Laravel, WordPress, CodeIgniter, Django**  
+- Strong database experience with **MySQL, PostgreSQL & MongoDB**  
+- API design, server-side logic, security best practices  
+- Payment gateway integrations across multiple platforms  
+- Currently leveling up with **Node.js + TypeScript**
+
+I enjoy solving real-world problems and building systems that are fast, stable, and maintainable.
 
 ---
 
-### 🌐 Connect with Me
-Feel free to reach out to discuss tech, collaboration, or just say hi!  
+### 🌐 Connect With Me
+
 <p align="left">
   <a href="https://instagram.com/sarojpatel12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"/>
   </a>
-   <a href="https://www.linkedin.com/in/sarojkumarpatel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Medium" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/sarojkumarpatel/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
   </a>
   <a href="mailto:sarojkumarpatel12@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="40" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Skills & Technologies
+
 <p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40" height="40" alt="CodeIgniter"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saroj4195&show_icons=true&locale=en" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saroj4195&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saroj4195&show_icons=true&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=1c1917&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroj4195&layout=compact&title_color=a855f7&text_color=22c55e&bg_color=1c1917&hide_border=true" width="49%" />
 </p>
