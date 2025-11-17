@@ -111,9 +111,6 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="60" height="45"/><br>AWS Basics
     </td>
     <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="45" height="45"/><br>Netlify
-    </td>
-    <td align="center" width="150">
       <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="45" height="45"/><br>Vercel
     </td>
   </tr>
