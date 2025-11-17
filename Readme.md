@@ -1,5 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/46455250/154399759-4bd34b11-34fc-4764-b88d-48fb1b39f055.png)
-
 <h1 align="center">👋I'm <span style="color:#a855f7;">Saroj Kumar Patel</span></h1>
 <h3 align="center">🚀 Backend Developer | 5+ Years of Experience</h3>
 <h4 align="center">💡 Crafting scalable, secure, and high-performance applications with Laravel, CodeIgniter, Django, and now Node.js</h4>
