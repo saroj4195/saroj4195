@@ -26,8 +26,8 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
 
 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/sarojkumarpatel/
-Email: sarojkumarpatel12@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sarojkumarpatel/
+- Email: sarojkumarpatel12@gmail.com
 
 ---
 
