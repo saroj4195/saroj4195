@@ -32,8 +32,53 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
 ---
 
 ### 🛠️ Skills & Technologies
+<div align="left">
 
-<table align="center"> <tr> <td align="center" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45"/><br>Laravel </td> <td align="center" width="80"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="45" height="45"/><br>CodeIgniter </td> <td align="center" width="80"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/><br>Django </td> <td align="center" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/><br>PHP </td> </tr> <tr> <td align="center" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br>JavaScript </td> <td align="center" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br>Node.js </td> <td align="center" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/><br>MySQL </td> <td align="center" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/><br>PostgreSQL </td> </tr> <tr> <td align="center" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/><br>MongoDB </td> <td align="center" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/><br>Bootstrap </td> <td align="center" width="80"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/><br>Tailwind </td> <td align="center" width="80"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/><br>Figma </td> </tr> </table>
+  <!-- Row 1 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45" alt="Laravel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="ExpressJS"/>
+
+  <br/><br/>
+
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="TailwindCSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" height="45" alt="WordPress"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+
+  <br/><br/>
+
+  <!-- Row 3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
+
+  <br/><br/>
+
+  <!-- Row 4 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+  <img src="https://www.svgrepo.com/show/353874/rabbitmq.svg" width="45" height="45" alt="RabbitMQ"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="45" height="45" alt="JWT"/>
+  <img src="https://www.svgrepo.com/show/354380/websocket.svg" width="45" height="45" alt="WebSockets"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="GitHub Actions"/>
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="45" height="45" alt="ChatGPT"/>
+
+  <br/><br/>
+
+  <!-- Row 5 -->
+  <img src="https://www.vectorlogo.zone/logos/google/gemini-icon.svg" width="45" height="45" alt="Gemini"/>
+  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="45" height="45" alt="Claude"/>
+
+</div>
 
 ---
 
