@@ -24,19 +24,10 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
 
 ---
 
-### 🌐 Connect With Me
+🌐 Connect With Me
 
-<p align="left">
-  <a href="https://instagram.com/sarojpatel12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sarojkumarpatel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
-  </a>
-  <a href="mailto:sarojkumarpatel12@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40"/>
-  </a>
-</p>
+LinkedIn: https://www.linkedin.com/in/sarojkumarpatel/
+Email: sarojkumarpatel12@gmail.com
 
 ---
 
