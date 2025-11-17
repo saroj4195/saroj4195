@@ -34,7 +34,6 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
 ### 🛠️ Skills & Technologies
 <div align="left">
 
-  <!-- Row 1 -->
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -48,8 +47,6 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
     </td>
   </tr>
 </table>
-
-  <!-- Row 2 -->
  <table align="center">
   <tr>
     <td align="center" width="120">
@@ -63,7 +60,6 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
     </td>
   </tr>
 </table>
-
 <table align="center">
   <tr>
     <td align="center" width="120">
@@ -75,8 +71,6 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/><br>Bootstrap
     </td>
@@ -85,19 +79,20 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
     </td>
   </tr>
 </table>
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/><br>MySQL
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/><br>PostgreSQL
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/><br>MongoDB
+    </td>
+  </tr>
+</table>
 
-
-  <!-- Row 4 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
-  <img src="https://www.svgrepo.com/show/353874/rabbitmq.svg" width="45" height="45" alt="RabbitMQ"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="45" height="45" alt="JWT"/>
-  <img src="https://www.svgrepo.com/show/354380/websocket.svg" width="45" height="45" alt="WebSockets"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="GitHub Actions"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="45" height="45" alt="ChatGPT"/>
-
-  <br/><br/>
-
-  <!-- Row 5 -->
   <img src="https://www.vectorlogo.zone/logos/google/gemini-icon.svg" width="45" height="45" alt="Gemini"/>
   <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="45" height="45" alt="Claude"/>
 
