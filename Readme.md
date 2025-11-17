@@ -41,16 +41,14 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/><br>PHP
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45"/><br>Laravel
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br>JavaScript
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="45" height="45"/><br>CodeIgniter
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/><br>Django
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/><br>TypeScript
     </td>
   </tr>
 </table>
+
 
 
   <br/><br/>
