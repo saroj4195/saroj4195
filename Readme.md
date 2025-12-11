@@ -54,10 +54,3 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saroj4195&show_icons=true&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=1c1917&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroj4195&layout=compact&title_color=a855f7&text_color=22c55e&bg_color=1c1917&hide_border=true" width="46%" />
-</p>
