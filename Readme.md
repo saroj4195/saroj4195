@@ -50,7 +50,6 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
 <table align="center"> <tr> <td align="center" width="130"> <img src="https://www.vectorlogo.zone/logos/google/gemini-icon.svg" width="45" height="45"/><br>Gemini </td> <td align="center" width="130"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="45" height="45"/><br>ChatGPT </td> <td align="center" width="130"> <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="45" height="45"/><br>Claude </td> </tr> </table>
 8. CMS
 <table align="center"> <tr> <td align="center" width="150"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" height="45"/><br>WordPress </td> </tr> </table>
-
 </div>
 
 ---
