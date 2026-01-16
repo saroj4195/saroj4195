@@ -51,5 +51,4 @@ I enjoy solving real-world problems and building systems that are fast, stable, 
 8. CMS
 <table align="center"> <tr> <td align="center" width="150"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" height="45"/><br>WordPress </td> </tr> </table>
 </div>
-
 ---
